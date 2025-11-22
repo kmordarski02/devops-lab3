@@ -1,4 +1,4 @@
 # Informacje o członku zespołu
-Imię:
-Nazwisko:
-Ulubiona technologia:
+Imię: Krystian
+Nazwisko: Mordarski	
+Ulubiona technologia: Docker
